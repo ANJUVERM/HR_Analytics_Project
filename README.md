@@ -1,1 +1,1 @@
-# HR_Analytics_Project
+This repository contains an in-depth analysis of employee attrition in a company based on the provided HR dataset. The dataset includes various factors such as age, daily rate, job satisfaction, and more, collected from a group of employees. The goal of this analysis is to identify patterns and factors contributing to employee attrition and provide actionable insights for the company.
